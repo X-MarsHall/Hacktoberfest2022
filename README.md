@@ -12,3 +12,4 @@
 3. Jai Pratama
 4. Crusher
 5. Yoga
+6. Fahmi
